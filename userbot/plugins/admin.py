@@ -29,7 +29,7 @@ from userbot.utils import admin_cmd
 # =================== CONSTANT ===================
 PP_TOO_SMOL = "`The image is too small`"
 PP_ERROR = "`Failure while processing the image`"
-NO_ADMIN = "`I am not an admin!! Chutiya Sala`"
+NO_ADMIN = "`I am not an admin!! Chutiya Sala admin banao re lawde loge`"
 NO_PERM = "`I don't have sufficient permissions! Ask The Owner To gibe me Rights😞`"
 NO_SQL = "`Running on Non-SQL mode!`"
 
